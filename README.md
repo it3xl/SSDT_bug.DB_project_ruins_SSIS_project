@@ -1,0 +1,1 @@
+# SSDT_bug.DB_project_ruins_SSIS_project
